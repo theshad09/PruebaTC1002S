@@ -1,0 +1,5 @@
+Hola.
+Este archvivo lo creeé en un repositrio remoto
+
+Aqui va nuestro codigo...
+cout<<"Hola mundo";
