@@ -3,3 +3,6 @@ Este archvivo lo creeé en un repositrio remoto
 
 Aqui va nuestro codigo...
 cout<<"Hola mundo";
+
+-------------------------
+CAMBIO REALIZADO LOCALMENTE...Es importante hacer "commit"para que este cambio se vea 
